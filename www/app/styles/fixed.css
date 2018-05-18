@@ -1,0 +1,17 @@
+﻿/*!
+ * This file is part of App Builder
+ *
+ * ©2018 App Builder - https://www.davidesperalta.com
+ */
+
+/* App auto generated CSS */
+
+html, body, .appView { width: 320px; height: 480px; }
+
+.dialogView .modal-dialog { width: 320px; margin: 0 auto; }
+
+#Button1 { position: absolute; top: 16px; left: 16px; width: 90px; height: 34px; }
+
+#Button2 { position: absolute; top: 256px; left: 72px; width: 168px; height: 40px; }
+
+#Button3 { position: absolute; top: 200px; left: 72px; width: 168px; height: 40px; }
